@@ -1,6 +1,6 @@
 [user]
-    name = Luke Pillow
-    email = lpillow@gmail.com
+    name = Justin Winkler
+    email = justin.winkler@gmail.com
 
 [alias]
     st = status
@@ -14,7 +14,7 @@
     l  = log --pretty=format:\"-- %h %ad %s\" --date=short
 
 ; [core]
-    ; excludesfile = /Users/lpillow/.gitignore
+    ; excludesfile = /Users/jwinkler/.gitignore
 
 [push]
     default = tracking
