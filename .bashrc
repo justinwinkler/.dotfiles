@@ -43,3 +43,4 @@ if [[ -s "$HOME/.rvm/scripts/rvm" ]] ; then source "$HOME/.rvm/scripts/rvm" ; fi
 source ~/.git-completion.bash
 
 complete -C ~/.rake_completion -o default rake
+PATH=$PATH:~/bin
